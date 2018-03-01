@@ -13,5 +13,5 @@ optional arguments:
                      <ip_address>:<port>)
   --sudo             Use SUDO to get information
 
-Written 2016, Dmytro Prokhorenkov
+check_oom.py: v.1.0 by Dmytro Prokhorenkov
 ```
