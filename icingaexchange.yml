@@ -1,0 +1,17 @@
+name: check_ipvs
+description: 'file:///README.md'
+url: 'https://github.com/l13t/icinga2_check_ipvs'
+tags: ipvs, ldirector, python, load-balancer 
+vendor: Linux
+target: Linux
+type: Plugin
+license: gplv3
+releases:
+  - name: 1.0
+    description: First Release
+    files:
+      - name: check_ipvs.py 
+        url: 'https://github.com/l13t/icinga2_check_ipvs/archive/v1.0.tar.gz'
+        description: First release
+        checksum: aae33dafe8bcc8bcd73d61a64747267c
+
