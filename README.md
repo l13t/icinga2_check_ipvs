@@ -1,4 +1,6 @@
 # icinga2_check_ipvs
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fl13t%2Ficinga2_check_ipvs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fl13t%2Ficinga2_check_ipvs?ref=badge_shield)
+
 Check for ldirectord/ipvs
 
 ```bash
@@ -15,3 +17,7 @@ optional arguments:
 
 check_oom.py: v.1.0 by Dmytro Prokhorenkov
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fl13t%2Ficinga2_check_ipvs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fl13t%2Ficinga2_check_ipvs?ref=badge_large)
